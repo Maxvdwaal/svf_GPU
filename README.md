@@ -1,1 +1,1 @@
-# svf_GPU
+# SkyViewFactor calculations using a GPU accelerated methodology
