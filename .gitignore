@@ -10,7 +10,8 @@
 *.userosscache
 *.sln.docstates
 *.pyc
-.ipynb_checkpoints
+*.ipynb_checkpoints
+*.ipynb filter=strip-notebook-output
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
